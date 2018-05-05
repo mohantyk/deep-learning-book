@@ -3,6 +3,7 @@ data/
 
 # Saved models
 *.h5
+models
 
 # Notebook checkpoints
 .ipynb_checkpoints/
