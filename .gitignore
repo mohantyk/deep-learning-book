@@ -1,0 +1,8 @@
+# Data
+data/
+
+# Saved models
+*.h5
+
+# Notebook checkpoints
+.ipynb_checkpoints/
