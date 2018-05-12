@@ -7,3 +7,6 @@ models
 
 # Notebook checkpoints
 .ipynb_checkpoints/
+
+# Floydhub files
+.floyd*
